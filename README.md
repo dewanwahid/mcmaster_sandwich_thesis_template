@@ -10,5 +10,5 @@ Dewan F. Wahid,<br />
 PhD Candidate, <br />
 School of Computational Science and Engineering,<br />
 McMaster University,<br />
-Email: wahidd@mcmaster.ca, dfwahid@gmail.com
+Email: wahidd@mcmaster.ca, dfwahid@gmail.com <br />
 -------------------------------------------------- <br />
