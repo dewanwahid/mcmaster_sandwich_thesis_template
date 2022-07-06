@@ -1,6 +1,6 @@
 # McMaster Sandwich Thesis Template
 
-I modified the general McMaster thesis format (https://www.overleaf.com/latex/templates/mcmaster-thesis-example/bjccppctqwgt) for Sandwich types dissertation. 
+I modified the general McMaster thesis format (https://www.overleaf.com/latex/templates/mcmaster-thesis-example/bjccppctqwgt) for Sandwich types dissertation. That means, each of your chapters (except introduction and conclusion) is a published article!
 
 For more information, please reach out! 
 
